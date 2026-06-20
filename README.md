@@ -178,7 +178,7 @@ Open `IITG.pbix` in Power BI Desktop to explore the interactive dashboard.
 
 ## 👥 Authors
 
-**Juee & Devesh**  
+**Juee Mahajan & Devesh Langer**  
 IIT Guwahati | Data Analytics & Consulting Program
 
 ---
